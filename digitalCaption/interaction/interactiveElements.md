@@ -14,17 +14,17 @@ To launch a record, simply tap on any of the thumbnail previews.
 
 > For the current VHEC version, only Artefacts and Themes were available to select from the main menu.
 
-## Scrolling Images
+## Scrolling Images {#scrollingImages}
 Images will appear on the left-hand side of a record. If there are multiple images, the user can swipe or tap the left-right arrows to move between them.
 
 {% video %}movies/scrollImages.mp4{% endvideo %}
 
-## Image Viewer
+## Image Viewer {#launchImageViewer}
 Tapping on an image will launch a viewer that allows the user to zoom in and move through the image. Tapping a second time will return to the record.
 
 {% video %}movies/imageViewer.mp4{% endvideo %}
 
-## Scrolling Content
+## Scrolling Content {#scrollingContent}
 The content for a record is read dynmically and populated into a scrollview.
 
 {% video %}movies/scrollContent.mp4{% endvideo %}
@@ -41,7 +41,7 @@ The submenu has a slightly different behaviour than the main menu. When filterin
 
 {% video %}movies/submenuFiltering.mp4{% endvideo %}
 
-## Movie Viewer
+## Movie Viewer {#movieViewer}
 To view a movie, tap on a thumbnail that has a small play icon in its bottom-left corner.
 
 {% video %}movies/watchMovie.mp4{% endvideo %}

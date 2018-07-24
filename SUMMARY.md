@@ -9,7 +9,8 @@
 	     * [Record Viewer](digitalCaption/design/recordViewer.md)
 	     * [Image Viewer](digitalCaption/design/imageViewer.md)
 	     * [Movie Viewer](digitalCaption/design/movieViewer.md)
-	     * [PDF Viewer](digitalCaption/design/pdfViewer.md)
+	     <!-- * [PDF Viewer](digitalCaption/design/pdfViewer.md) -->
+	     * [Specifications](digitalCaption/design/specifications.md)
     * [Data Structure](digitalCaption/dataStructure/intro.md)
 	     * [Definitions](digitalCaption/dataStructure/definitions.md)
 	     * [Processing Data](digitalCaption/dataStructure/processingData.md)
