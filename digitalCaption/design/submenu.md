@@ -24,3 +24,10 @@ The submenu can be filtered by tapping one of the options in its menu. Filtering
 
 ### Filtered for Movies
 ![Submenu Filtered for Movies](images/submenuFilteredMovies.png)
+
+## Interaction
+For more on how to interact with the submenu, please see the following:
+
+> Please see [Submenu Filtering](../interaction/interactiveElements.md#submenuFiltering)
+
+> Please see [Opening Records](../interaction/interactiveElements.md#openRecordsGoBack)

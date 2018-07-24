@@ -36,7 +36,7 @@ To see related items to the current record, tap the *Explore Further* button in 
 
 > If a record has no related items, the button will not appear.
 
-## Submenu Filtering
+## Submenu Filtering {#submenuFiltering}
 The submenu has a slightly different behaviour than the main menu. When filtering is applied to a submenu, the non-selected elements become inactive and transparent.
 
 {% video %}movies/submenuFiltering.mp4{% endvideo %}
@@ -48,7 +48,7 @@ To view a movie, tap on a thumbnail that has a small play icon in its bottom-lef
 
 > For the current VHEC version, movies are only shown as related items and launch directly from a submenu – there is no record associated with them.
 
-## Open Records / Go Back
+## Open Records / Go Back {#openRecordsGoBack}
 Opening a record will trigger a transition animation. When going back to the previous set of related records, there will be an inverse animation.
 
 {% video %}movies/openRecordGoBack.mp4{% endvideo %}
