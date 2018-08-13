@@ -18,3 +18,8 @@
 	* [Interaction](digitalCaption/interaction/intro.md)
 		* [Architecture](digitalCaption/interaction/interactionArchitecture.md)
 		* [Elements](digitalCaption/interaction/interactiveElements.md)
+* [Interactive Wall](interactiveWall/intro.md)
+	* [User Interface](interactiveWall/ui/intro.md)
+		* [Browse](interactiveWall/ui/browse/browse.md)
+			* [Information Structure](interactiveWall/ui/browse/structure.md)
+			* [Design](interactiveWall/ui/browse/design.md)
