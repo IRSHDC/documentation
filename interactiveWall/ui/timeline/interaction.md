@@ -7,9 +7,11 @@ Interaction with the Timeline is essentially made up of 3 components: scrolling,
 ###Revealing
 Pressing the timeline icon in the User Menu will reveal the timeline.
 
+{% video %}movies/TL_2_1_1.mp4{% endvideo %}
+
 If only one person is using the installation, the timeline will appear across all screens.
 
-TL_3_1
+{% video %}movies/TL_3_1_1.mp4{% endvideo %}
 
 ###Scrolling
 Dragging a finger across the screen will scroll the timeline horizontally.
@@ -23,23 +25,23 @@ The timeline will scroll across multiple screens.
 ###Year Bar Scrolling
 Draging in the year-bar will scroll the timeline faster than dragging on its main view.
 
-TL_2_3
+{% video %}movies/TL_2_3_1.mp4{% endvideo %}
 
-TL_3_3
+{% video %}movies/TL_3_3_1.mp4{% endvideo %}
 
 ###Tapping to View A Record
 Tapping a flag will reveal a record.
 
-TL_4_2
+{% video %}movies/TL_2_4_1.mp4{% endvideo %}
 
-TL_4_3
+{% video %}movies/TL_3_4_1.mp4{% endvideo %}
 
 ###Pressing to View Trail
 Pressing and holding for a short period of time on a shcool's flag will cause its trail to be highlighted.
 
-TL_5_2
+{% video %}movies/TL_2_6_4.mp4{% endvideo %}
 
-TL_5_3
+{% video %}movies/TL_3_6_2.mp4{% endvideo %}
 
 ##Features
 
@@ -49,26 +51,28 @@ Dragging on the background of the timeline will move it vertically along the scr
 ###Highlight Duration
 A trail will stay highlighted for a time and then revert to its original color.
 
-TL_7_2
+{% video %}movies/TL_2_7_1.mp4{% endvideo %}
 
 ###Seeing the End of a Trail
 A school's trail will stay visible long enough that a user can scroll to the end to see when the school closed.
 
-TL_9_2
+{% video %}movies/TL_2_9_2.mp4{% endvideo %}
 
-TL_9_2
+{% video %}movies/TL_3_9_2.mp4{% endvideo %}
 
 ###Highlighting and Dragging
 If a user highlights a school and doesn't remove their finger, they can start scrolling – this might be a rare occurrence, but it would essentially elongate the amount of time a trail is highlighted.
 
-TL_8_2
+{% video %}movies/TL_2_8_2.mp4{% endvideo %}
+
+{% video %}movies/TL_3_8_1.mp4{% endvideo %}
 
 ###Multiple Flag Highlight
 Multiple flags can be pressed at the same time.
 
-TL_10_2
+{% video %}movies/TL_2_10_1.mp4{% endvideo %}
 
-TL_10_3
+{% video %}movies/TL_3_10_1.mp4{% endvideo %}
 
 ##Multiple Users
 The Timeline can handle multiple users by splitting down in a fashion similar to the Map Explorer.
@@ -76,19 +80,18 @@ The Timeline can handle multiple users by splitting down in a fashion similar to
 ###Splitting for Multiple Users
 Like the map explorer, the Timeline will split by screen and by 1/2 screen.
 
-TL_11_2
-TL_11_3
+{% video %}movies/TL_2_11_1.mp4{% endvideo %}
+
+{% video %}movies/TL_3_11_1.mp4{% endvideo %}
 
 ###Map + Timeline Split
 If the Timeline is split and one user begins working with the Map Explorer, the map underneath the timeline will sync.
 
-TL_12_2
+{% video %}movies/TL_2_12_1.mp4{% endvideo %}
 
-TL_12_3
+{% video %}movies/TL_3_12_2.mp4{% endvideo %}
 
 ###Timing Out from a Split
 After the timeline has been split, it will rejoin another session if it hasn't been used in some time.
 
-TL_13_2
-
-TL_13_3
+{% video %}movies/TL_2_13_1.mp4{% endvideo %}
