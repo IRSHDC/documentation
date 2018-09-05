@@ -8,7 +8,7 @@ There are 4 basic interactions.
 You can pan the map by dragging one or more fingers across the screen.
 
 Close-up.
-{% video %}movies/ME_1_3_1.mp4{% endvideo %}
+{% video controls="controls" %}movies/ME_1_3_1.mp4{% endvideo %}
 
 Screen.
 {% video %}movies/ME_2_3_1.mp4{% endvideo %}
