@@ -1,19 +1,16 @@
-# Map Explorer
+# Record Navigator
 
-This section covers the design, functionality and interaction of the Map Explorer.
+This section covers the design, functionality and interaction of the Record Navigator.
 
 ## Design
-The Map Explorer is a configuration of Apple Maps. The aesthetic components of this application use` customized versions of Apple's standard map objects.
+The Record Navigator is a custom implementation of a standard MacOS window. The aesthetic components of this application use` customized versions of MacOS NSWindow.
 
-> Please see [Design](design.md)
+<!-- > Please see [Design](design.md) -->
 
 ## Interaction
-Interaction with the Map Explorer is straightforward.
+Interaction with the Record Navigator allows for viewing all manner of visual media, including text, images, videos and pdf documents.
 
 > Please see [Interaction](interaction.md)
 
-## Tiles
-We generate a custom set of image tiles that provide the visual layer for the map.
-
-> Please see [Tiles](tiles.md)
-
+<!-- ## Data Structure
+This is how we parse incoming data into a record. -->

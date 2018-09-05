@@ -17,7 +17,7 @@ Screen.
 You can zoom in or out of the map by pinching the screen with two or more fingers.
 
 Close-up.
-{% video %}movies/ME_1_4_1.mp4{% endvideo %}
+{% video %}movies/ME_1_4_2.mp4{% endvideo %}
 
 Screen.
 {% video %}movies/ME_2_4_1.mp4{% endvideo %}
@@ -26,7 +26,7 @@ Screen.
 You can zoom into an area of the map by double-tapping the screen.
 
 Close-up.
-{% video %}movies/ME_1_5_1.mp4{% endvideo %}
+{% video %}movies/ME_1_5_41.mp4{% endvideo %}
 
 Screen.
 {% video %}movies/ME_2_5_1.mp4{% endvideo %}
@@ -38,7 +38,7 @@ Here we list a few lovely features in Map Explorer.
 You can select an annotation by tapping on it – this launches a record.
 
 Close-up.
-{% video %}movies/ME_1_6_2.mp4{% endvideo %}
+{% video %}movies/ME_1_6_1.mp4{% endvideo %}
 
 Screen.
 {% video %}movies/ME_2_6_1.mp4{% endvideo %}
@@ -46,7 +46,7 @@ Screen.
 ###Animating Back To a Pin
 If a pin has already been tapped, and its record is still visible, the record will animate *back* to the pin instead of creating a copy of the record. 
 
-{% video %}movies/ME_2_19_6.mp4{% endvideo %}
+{% video %}movies/ME_2_19_1.mp4{% endvideo %}
 
 Two things to note here:
 
@@ -57,7 +57,7 @@ Two things to note here:
 ###Flicking Records
 Its possible to flick a record away. You can send it to someone on another screen, or just get it out of your hair.
 
-{% video %}movies/ME_2_20_2.mp4{% endvideo %}
+{% video %}movies/ME_2_20_1.mp4{% endvideo %}
 
 ###Flicking Off Screen
 If a record is flicked off screen, or its header bar is no longer visible, then the record will be removed from the interface.

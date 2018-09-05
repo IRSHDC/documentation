@@ -1,120 +1,77 @@
-# Map Explorer Interaction
-This section illustrates the interactive capabilities of the Map Explorer.
+# Record Navigator Interaction
 
-##Basics
-There are 4 basic interactions.
+There is ...
 
-###Panning
-You can pan the map by dragging one or more fingers across the screen.
+## Records 
 
-Close-up.
-{% video %}movies/ME_1_3_1.mp4{% endvideo %}
+### Opening a Record
+A record can be opened from any of the aesthetic layers – i.e. Map Explorer, Timeline, Node Visualizer. 
 
-Screen.
-{% video %}movies/ME_2_3_1.mp4{% endvideo %}
+Here is an example of opening a record from the Map Explorer.
 
-###Zooming
-You can zoom in or out of the map by pinching the screen with two or more fingers.
+{% video %}../mapExplorer/movies/ME_1_6_2.mp4{% endvideo %}
 
-Close-up.
-{% video %}movies/ME_1_4_1.mp4{% endvideo %}
+Many records can be opened at the same time.
 
-Screen.
-{% video %}movies/ME_2_4_1.mp4{% endvideo %}
+{% video %}../mapExplorer/movies/ME_2_6_1.mp4{% endvideo %}
 
-###Tapping
-You can zoom into an area of the map by double-tapping the screen.
+### Move a Record
+To move a record, a user can drag on it's title bar.
 
-Close-up.
-{% video %}movies/ME_1_5_1.mp4{% endvideo %}
+{% video %}/movies/RN_1_1_1.mp4{% endvideo %}
 
-Screen.
-{% video %}movies/ME_2_5_1.mp4{% endvideo %}
+### Records fade away
+After a record has sat idle for a while, it will fade away.
 
-##Lovely Features
-Here we list a few lovely features in Map Explorer.
+{% video %}/movies/RN_1_2_1.mp4{% endvideo %}
 
-###Selecting
-You can select an annotation by tapping on it – this launches a record.
+### Scrolling Text
+Users can scroll to see more text. If the down arrow is visible at the bottom of the window, they can also tap to automatically move the text downwards.
 
-Close-up.
-{% video %}movies/ME_1_6_2.mp4{% endvideo %}
+{% video %}/movies/RN_1_4_1.mp4{% endvideo %}
 
-Screen.
-{% video %}movies/ME_2_6_1.mp4{% endvideo %}
+### Flinging
 
-###Animating Back To a Pin
-If a pin has already been tapped, and its record is still visible, the record will animate *back* to the pin instead of creating a copy of the record. 
+Deallocating at Top 
 
-{% video %}movies/ME_2_19_6.mp4{% endvideo %}
+Multiple People Opening
 
-Two things to note here:
+Launching a Related Record
 
-*First.* This only happens for pins that are touched on the same 1/2 screen session. For example, if the same pin is tapped on different halves of the screen, 2 identical records will show.
+Scrolling Through Images
 
-*Second.* Given the previous point. The same record can be shown up to 6 times across the entire installation.
+Opening Related Items
 
-###Flicking Records
-Its possible to flick a record away. You can send it to someone on another screen, or just get it out of your hair.
+Filtering Related Items
 
-{% video %}movies/ME_2_20_2.mp4{% endvideo %}
+## Images 
 
-###Flicking Off Screen
-If a record is flicked off screen, or its header bar is no longer visible, then the record will be removed from the interface.
+Opening an Image 
 
-{% video %}movies/ME_2_21_2.mp4{% endvideo %}
+Launch Image
 
-###Labels
-If the "show labels" option is on in the filter panel, then each annotation will reveal its label after the user has sufficiently zoomed.
+Zoom Image
 
-Close-up.
-{% video %}movies/ME_1_9_1.mp4{% endvideo %}
+Change Image Page
 
-Screen.
-{% video %}movies/ME_2_9_1.mp4{% endvideo %}
+## Videos
 
+Opening a Video
 
-###Scrolling Across Edges
-If a user scrolls the map so the country moves past the left or right edges, the map will reappear at the opposite edge of the screen.
+Play / Pause
 
-{% video %}movies/ME_2_8_1.mp4{% endvideo %}
+The Volume Button
 
-##Multi-User Control
-The default behaviour for the Map Explorer is that when a single user interacts with the installation, all three screens will move in sync with that user's actions.
+Scrubbing a Video
 
-###Splitting by Screens
-If a second user approaches the installation and starts controlling on another screen, then the installation will subdivide at the screen-level.
+End of Videos
 
-<!-- ME 3 13 -->
+## PDFs 
 
-###Splitting a Single Screen
-If two users start interacting with the same screen, on opposite sides of its exact center, the screen will act like it is 2 screens.
+Opening PDFs
 
-{% video %}movies/ME_2_7_1.mp4{% endvideo %}
+Changing Pages
 
-###Taking Control
-If a session is split and there is only a single person working with the installation, that person can tap the sync / split button to regain control of the installation.
+Zooming a PDF
 
-{% video %}movies/ME_2_23_2.mp4{% endvideo %}
-
-###Syncing
-If a session has not been interacted with for a while its map will sync to the next-closest user's interaction.
-
-##Centering
-After 3 minutes of inactivity, the map will recenter to its screen.
-
-### Single Screen 
-Here is what it looks like for a map to recenter.
-
-{% video %}movies/ME_2_14_1.mp4{% endvideo %}
-
-### Single Screen – Multiple Sessions
-Here is what it looks like when a split session recenters.
-
-{% video %}movies/ME_2_15_1.mp4{% endvideo %}
-
-### Multiple Screens
-Here is what recentering looks like across multiple screens.
-
-### Multiple Screens – Multiple Sessions
-Here is what recentering looks like across multiple screens with multiple sessions.
+Open multiple pdfs
