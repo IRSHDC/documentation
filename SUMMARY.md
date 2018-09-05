@@ -27,6 +27,8 @@
 					* [Style Sheet](interactiveWall/ui/mapExplorer/style.md)
 			* [Interaction](interactiveWall/ui/mapExplorer/interaction.md)
 			* [Tiles](interactiveWall/ui/mapExplorer/tiles.md)
+		* [Timeline](interactiveWall/ui/timeline/timeline.md)
+			* [Interaction](interactiveWall/ui/timeline/interaction.md)
 		* [Browse](interactiveWall/ui/browse/browse.md)
 			* [Information Structure](interactiveWall/ui/browse/structure.md)
 			* [Design](interactiveWall/ui/browse/design.md)
