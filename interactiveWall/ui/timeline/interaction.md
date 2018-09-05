@@ -7,8 +7,6 @@ Interaction with the Timeline is essentially made up of 3 components: scrolling,
 ###Revealing
 Pressing the timeline icon in the User Menu will reveal the timeline.
 
-TL_2_1
-
 If only one person is using the installation, the timeline will appear across all screens.
 
 TL_3_1
@@ -16,11 +14,11 @@ TL_3_1
 ###Scrolling
 Dragging a finger across the screen will scroll the timeline horizontally.
 
-TL_2_2
+{% video %}movies/TL_2_2_1.mp4{% endvideo %}
 
 The timeline will scroll across multiple screens.
 
-TL_3_2
+{% video %}movies/TL_3_2_1.mp4{% endvideo %}
 
 ###Year Bar Scrolling
 Draging in the year-bar will scroll the timeline faster than dragging on its main view.
