@@ -34,3 +34,7 @@
 		* [Browse](interactiveWall/ui/browse/browse.md)
 			* [Information Structure](interactiveWall/ui/browse/structure.md)
 			* [Design](interactiveWall/ui/browse/design.md)
+* [Feedback Kiosk](feedbackKiosk/intro.md)
+    * [Design](feedbackKiosk/design/_intro.md)
+    * [Data Structure](feedbackKiosk/dataStructure/_ntro.md)
+	* [Interaction](feedbackKiosk/interaction/_intro.md)
