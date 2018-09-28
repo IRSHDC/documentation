@@ -38,3 +38,4 @@
     * [Design](feedbackKiosk/design/_intro.md)
     * [Data Structure](feedbackKiosk/dataStructure/_ntro.md)
 	* [Interaction](feedbackKiosk/interaction/_intro.md)
+* [DESIGN UPDATE](designUpdate/designUpdate.md)
