@@ -1,0 +1,26 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "These resources document three interactives produced by [Logic&Form](http://logicandform.com) for the Indian Residential School History and Dialogue Centre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRSHDC/documentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRSHDC/documentation/issues"
+  },
+  "homepage": "https://github.com/IRSHDC/documentation#readme",
+  "dependencies": {
+    "collapsible-menu": "^1.0.10",
+    "gitbook": "^3.2.3",
+    "gitbook-plugin-html5-video": "^1.0.0",
+    "gitbook-plugin-theme-gestalt": "^1.0.7",
+    "gitbook-plugin-theme-partone": "^1.0.8"
+  }
+}
